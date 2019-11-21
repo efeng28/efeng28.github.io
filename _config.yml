@@ -16,10 +16,8 @@
 title: Eric J Feng
 email: eric.jq.feng@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Junior at Mounds View High School
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: contrast
+  Personal website
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
