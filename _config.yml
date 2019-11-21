@@ -58,11 +58,11 @@ plugins:
 author:
   name   : "Eric Jiaqiang Feng"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "MJunior at Mounds View High School"
+  bio    : "Junior at Mounds View High School"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.ericjfeng.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -71,7 +71,7 @@ author:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/efeng21"
 
 footer:
   links:
@@ -83,7 +83,7 @@ footer:
       url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/efeng21"
 
 defaults:
   # _posts
