@@ -11,29 +11,30 @@ title: ""
 
 ## Experience
 ### [ResearchCrunch](https://researchcrunch.org/) - Section Editor and Chapter Head
-August 2019 - Present
+August 2019 - Present <br>
 Assembled and oversaw a team of four staff writers at Mounds View High School in addition to editing all life sciences articles before publication.
 ### University of Minnesota Medical School: Jop van Berlo Lab - Research Assistant
-June 2019 - Present
+June 2019 - Present <br>
 Performed and optimized immunocytochemistry and immunohistochemistry protocols in order to generate a comprehensive time course of murine cardiomyocyte maturation.
 ### Kumon - Teaching Assistant
+March 2019 - June 2019 <br>
 Tutored K-12 students seeking educational enrichment in curriculum ranging from addition and grammar to calculus and classic novels.
 
 ## Activities
 ### Science Olympiad - Varsity
-October 2015 - June 2019
+October 2015 - June 2019 <br>
 National champion in Disease Detectives and national medalist in WiFi Lab in addition to 22 medals from other tournaments.
 ### Personal Finance Decathlon - Varsity
-September 2017 - Present
+September 2017 - Present <br>
 National participant and state champion.
 ### Greater Twin Cities Youth Symphonies
-September 2011 - Present
+September 2011 - Present <br>
 Violinist for Symphony (highest orchestra out of 10). Will tour Italy in June 2020.
 ### MMEA All-State Orchestra
-August 2018 - Present
+August 2018 - Present <br>
 Elected all years, participated freshman year.
 ### Mounds View Table Tennis - Captain and Varsity
-September 2016 - Present
+September 2016 - Present <br>
 Lead the team to four top-3 finishes at state, including a state championship.
 ### Cross Country - JV
 August 2017 - October 2018
