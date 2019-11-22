@@ -29,7 +29,7 @@ September 2017 - Present <br>
 National participant and state champion.
 ### National Honor Society - Executive Board
 September 2019 - Present <br>
-Responsible for helping rebuild and maintain the (website)[https://moundsviewnhs.com/]
+Responsible for helping rebuild and maintain the [website](https://moundsviewnhs.com/)
 ### Greater Twin Cities Youth Symphonies
 September 2011 - Present <br>
 Violinist for Symphony (highest orchestra out of 10). Will tour Italy in June 2020.
