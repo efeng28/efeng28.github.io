@@ -1,6 +1,6 @@
 ---
-permalink: /home/
-title: "Home"
+permalink: /
+title: ""
 ---
 
 Homepage hopefully
