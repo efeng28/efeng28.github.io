@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /home/
 title: ""
 ---
 This should work why isnt this working
