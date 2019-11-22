@@ -49,7 +49,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  #- jekyll-feed
+  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -66,10 +66,10 @@ author:
       url: "https://www.linkedin.com/in/ericjfeng/"
     - label: "@efeng28"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/efeng7/"
+      url: "https://github.com/efeng28/"
     - label: "@efeng28"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/efeng21/"
+      url: "https://instagram.com/efeng28/"
 
 footer:
   links:
@@ -79,12 +79,12 @@ footer:
     - label: "in/ericjfeng"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ericjfeng/"
-    - label: "@efeng7"
+    - label: "@efeng28"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/efeng7/"
-    - label: "Instagram"
+      url: "https://github.com/efeng28/"
+    - label: "@efeng28"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/efeng21/"
+      url: "https://instagram.com/efeng28/"
 
 analytics:
   provider: "google-gtag"
