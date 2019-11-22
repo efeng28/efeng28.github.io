@@ -3,4 +3,6 @@ permalink: /
 title: ""
 ---
 
-Homepage hopefully
+#Eduction
+##Mounds View HS
+year stuff gpa
