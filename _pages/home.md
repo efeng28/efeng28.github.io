@@ -1,7 +1,7 @@
 ---
 classes: wide
 permalink: /
-title: ""
+title: "Home"
 ---
 This should work why isnt this working
 
