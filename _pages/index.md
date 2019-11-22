@@ -27,6 +27,9 @@ National champion in Disease Detectives and national medalist in WiFi Lab in add
 ### Personal Finance Decathlon - Varsity
 September 2017 - Present <br>
 National participant and state champion.
+### National Honor Society - Executive Board
+September 2019 - Present <br>
+Responsible for helping rebuild and maintain the (website)[https://moundsviewnhs.com/]
 ### Greater Twin Cities Youth Symphonies
 September 2011 - Present <br>
 Violinist for Symphony (highest orchestra out of 10). Will tour Italy in June 2020.
@@ -42,7 +45,22 @@ August 2017 - October 2018
 March 2018 - June 2019
 
 ## Volunteering
+### Science Olympiad
+January 2017 - Present <br>
+Test writer and event supervisor for Division C Yale Science Olympiad Invitational, Division B Gopher Invitational, and Division A State Tournament.
+### Harmony
+October 2018 - May 2019 <br>
+Taught violin to underserved elementary school students in St. Paul's Westside.
+### String Quartet
+December 2017  Present <br>
+Monthly quartet performances at Cardigan Ridge Senior Living and Johanna Shores Senior Living.
+### Music for Mounds View
+April 2018 - April 2019  <br>
+Performer and audition volunteer.
 
 ## Poster Sessions
+Feng E, Solinsky J, Chen L, van Berlo JH. The Time Course of Murine Cardiomyocyte Maturation. 28th Annual UMN Developmental Biology Symposium. 10/7/19.
 
 ## Honors and Awards
+### AP Scholar with Distinction - 2019
+### AP Scholar - 2018
