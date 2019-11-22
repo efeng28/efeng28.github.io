@@ -2,5 +2,3 @@
 permalink: /
 title: ""
 ---
-
-Homepage hopefully
