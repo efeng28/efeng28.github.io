@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Other Projects"
+title: "Projects"
 ---
 ### Personal Website
 I registered my domain through Google Domains because of the relatively simple interface. I am hosting the website through GitHub pages because it is free and offers complete control over what you want to do with the website. It is also great for Jekyll websites.
