@@ -2,7 +2,6 @@
 permalink: /cv/
 title: "CV"
 ---
-
 ## Education
 ### Mounds View HS '21
 - Current Coursework: AP Chemistry, AP English Language and Composition, AP Psychology, Chamber Orchestra, Linear Algebra, Multivariable Calculus, World History <br>
