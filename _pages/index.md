@@ -2,4 +2,4 @@
 permalink: /
 title: ""
 ---
-Maybe I'll do some blog stuff
+Welcome to my website.

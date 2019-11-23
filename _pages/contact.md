@@ -1,5 +1,5 @@
 ---
-permalink: /contact/
-title: "Contact"
+permalink: /blog/
+title: "Blog"
 ---
-Not sure why this is here. Feel free to shoot me an email using the email on the sidebar.
+"Blog" is short for "weblog."
