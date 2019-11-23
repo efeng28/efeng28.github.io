@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "CV"
+title: ""
 ---
 ## Education
 ### Mounds View HS '21
@@ -19,29 +19,8 @@ Performed and optimized immunocytochemistry and immunohistochemistry protocols i
 March 2019 - June 2019 <br>
 Tutored K-12 students seeking educational enrichment in curriculum ranging from addition and grammar to calculus and classic novels.
 
-## Activities
-### Science Olympiad - Varsity
-October 2015 - June 2019 <br>
-National champion in Disease Detectives and national medalist in WiFi Lab in addition to 22 medals from other tournaments.
-### Personal Finance Decathlon - Varsity
-September 2017 - Present <br>
-National participant and state champion.
-### National Honor Society - Executive Board
-September 2019 - Present <br>
-Responsible for helping rebuild and maintain the [website](https://moundsviewnhs.com/)
-### Greater Twin Cities Youth Symphonies
-September 2011 - Present <br>
-Violinist for Symphony (highest orchestra out of 10). Will tour Italy in June 2020.
-### MMEA All-State Orchestra
-August 2018 - Present <br>
-Elected all years, participated freshman year.
-### Mounds View Table Tennis - Captain and Varsity
-September 2016 - Present <br>
-Lead the team to four top-3 finishes at state, including a state championship.
-### Cross Country - JV
-August 2017 - October 2018
-### Track and Field - JV
-March 2018 - June 2019
+## Poster Sessions
+Feng E, Solinsky J, Chen L, van Berlo JH. The Time Course of Murine Cardiomyocyte Maturation. 28th Annual UMN Developmental Biology Symposium. 10/7/19.
 
 ## Volunteering
 ### Science Olympiad
@@ -57,8 +36,29 @@ Monthly quartet performances at Cardigan Ridge Senior Living and Johanna Shores 
 April 2018 - April 2019  <br>
 Performer and audition volunteer.
 
-## Poster Sessions
-Feng E, Solinsky J, Chen L, van Berlo JH. The Time Course of Murine Cardiomyocyte Maturation. 28th Annual UMN Developmental Biology Symposium. 10/7/19.
+## Activities
+### Science Olympiad - Varsity
+October 2015 - June 2019 <br>
+National champion in Disease Detectives and national medalist in WiFi Lab in addition to 22 medals from other tournaments.
+### Personal Finance Decathlon - Varsity
+September 2017 - Present <br>
+National participant and state champion.
+### National Honor Society - Executive Board
+September 2019 - Present <br>
+Responsible for helping rebuild and maintain the [website.](https://moundsviewnhs.com/)
+### Greater Twin Cities Youth Symphonies
+September 2011 - Present <br>
+Violinist for Symphony (highest orchestra out of 10). Will tour Italy in June 2020.
+### MMEA All-State Orchestra
+August 2018 - Present <br>
+Elected all years, participated freshman year.
+### Mounds View Table Tennis - Captain and Varsity
+September 2016 - Present <br>
+Lead the team to four top-3 finishes at state, including a state championship.
+### Cross Country - JV
+August 2017 - October 2018
+### Track and Field - JV
+March 2018 - June 2019
 
 ## Honors and Awards
 ### AP Scholar with Distinction - 2019
