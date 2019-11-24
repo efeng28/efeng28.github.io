@@ -1,6 +1,6 @@
 ---
 permalink: /archives/
-title: ""
+title: "Blog Archive"
 layout: single
 ---
 ### [Sort by Year](/year/)
