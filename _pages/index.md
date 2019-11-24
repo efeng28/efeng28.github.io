@@ -2,4 +2,4 @@
 permalink: /
 title: "Home"
 ---
-Homepage
+Welcome to my website!
