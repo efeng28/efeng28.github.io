@@ -1,5 +1,5 @@
 ---
-permalink: /recent/
-title: "Recent Posts"
-layout: archive
+permalink: /year/
+title: "Posts by Year"
+layout: posts
 ---
