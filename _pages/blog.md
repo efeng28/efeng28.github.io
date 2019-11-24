@@ -2,6 +2,6 @@
 permalink: /blog/
 title: "Blog"
 ---
-## [Recent Posts](/year/)
+## [Posts by Year](/year/)
 
 ## [Posts by Category](/categories/)
