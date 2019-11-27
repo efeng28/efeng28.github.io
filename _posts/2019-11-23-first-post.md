@@ -2,11 +2,11 @@
 title: "Why Website?"
 date: 2019-11-26T22:09-05:00
 #November 23, 2019 at 22:09 EST
-excerpt: Why I made a website and why you should make one, too.
+excerpt: I made a website and you should make one, too.
 categories:
   - Blog
 ---
-My journey to building my own website started freshman year with a quick Google search of "Eric Feng." I quickly learned that there were already two well-established Eric Feng's on the internet: one a prominent software executive (with his own Wikipedia page!) and one a public speaker who had already published three books. I wasn't too worried, though; I was having no trouble being one of the six Eric's at Mounds View.
+My journey to building my own website started freshman year with a Google search of "Eric Feng." I quickly learned that there were already two well-established Eric Feng's on the internet: one a prominent software executive (with his own Wikipedia page!) and one a public speaker who had already published three books. I wasn't too worried, though; I was having no trouble being one of the six Eric's at Mounds View.
 
 Two years later, I decided to make my own push towards Eric Feng internet fame. I knew I wanted to build my own website, so I started by thinking of ideas for a domain name. My first thought was ericfeng.com, but unfortunately that was already taken by one of the aforementioned Eric Feng's. Next up on the list was efeng.com, but that was being used by a Chinese plastics company. After consulting with some friends and family, I finally decided on ericjfeng.com (if your name is also Eric J. Feng, I'm sorry).
 
