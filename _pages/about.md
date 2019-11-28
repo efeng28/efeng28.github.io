@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "Learn all about me!"
+classes: wide
 header:
   overlay_image: /assets/images/family.jpg
   overlay_filter: 0.1
