@@ -5,6 +5,10 @@ date: 2019-11-26T22:09-05:00
 excerpt: I made a website and you should make one, too.
 categories:
   - Blog
+header:
+  overlay_image: /assets/images/2019-11-26-first-post.jpg
+  overlay_filter: 0
+  caption: "[Source](https://www.pexels.com/photo/person-in-front-of-laptop-on-brown-wooden-table-2115217/)"
 ---
 My journey to building my own website started freshman year with a Google search of "Eric Feng." I quickly learned that there were already two well-established Eric Feng's on the internet: one a prominent software executive (with his own Wikipedia page!) and one a public speaker who had already published three books. I wasn't too worried, though; I was having no trouble being one of the six Eric's at Mounds View.
 
