@@ -1,4 +1,4 @@
 ---
-permalink: /
-title: "Home"
+permalink: /blog/
+title: "Recent Posts"
 ---
