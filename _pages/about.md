@@ -1,10 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Learn all about me!
-<br>
-<br>
-<br>
+excerpt: "
 <br>
 <br>
 <br>
