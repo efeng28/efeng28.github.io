@@ -6,7 +6,7 @@ excerpt: I made a website and you should make one, too.
 categories:
   - Blog
 header:
-  overlay_image: /assets/images/2019-11-26-first-post.jpg
+  overlay_image: /assets/images/2019-11-26-why-website.jpg
   overlay_filter: 0
   caption: "[Source](https://www.pexels.com/photo/person-in-front-of-laptop-on-brown-wooden-table-2115217/)"
 ---
