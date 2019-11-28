@@ -2,9 +2,11 @@
 permalink: /about/
 title: "About"
 excerpt: "Learn all about me!
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 "
 header:
   overlay_image: /assets/images/family.jpg
