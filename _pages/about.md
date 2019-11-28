@@ -3,8 +3,12 @@ permalink: /about/
 title: "About"
 header:
   overlay_image: /assets/images/family.jpg
-  overlay_filter: 0.5
-  caption: "Caption"
+  overlay_filter: rgba(255, 0, 0, 0.5)
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
+
 ---
 Hey! My name is Eric and I am a junior at Mounds View High School. I live in the Twin Cities suburbs with my parents, my sister, and my dog named Lili. I also have a second sister who is married, and they are doing their residencies in Cleveland, Ohio. They have a cute son named Matthew!
 
