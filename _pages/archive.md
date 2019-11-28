@@ -2,6 +2,13 @@
 permalink: /archives/
 title: "Blog Archive"
 layout: single
+excerpt: "
+<br>
+<br>
+<br>
+<br>
+<br>
+"
 header:
   overlay_image: /assets/images/archive.jpg
   overlay_filter: 0
