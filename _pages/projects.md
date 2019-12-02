@@ -17,7 +17,7 @@ header:
 I registered my domain through Google Domains because of the relatively simple interface. I am hosting the website through GitHub pages because it is free and offers complete control over what you want to do with the website. It is also great for Jekyll websites.
 
 ### Pill Push
-We are currently looking somebody who has experience with basic graphic design for apps and websites. Please email me for more information.
+We are currently looking somebody who has experience with basic graphic design for apps and websites. Please email me at [feng0198@umn.edu](mailto:feng0198@umn.edu) for more information.
 
 ### [National Honor Society](https://moundsviewnhs.com/)
 This was my first exposure to computer programming. The domain is registered through GoDaddy, and the website is hosted through Google Cloud Platform because we are using a SQL server. I am maintaining and constantly improving the website.
