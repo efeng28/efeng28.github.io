@@ -2,7 +2,7 @@
 title: "Why Website?"
 date: 2019-11-26T22:09-05:00
 #November 23, 2019 at 22:09 EST
-excerpt: I made a website and you should make one, too.
+excerpt: My journey to building my own website started freshman year with a Google search of “Eric Feng.”...
 categories:
   - Blog
 header:
