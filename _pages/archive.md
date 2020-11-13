@@ -1,5 +1,5 @@
 ---
-permalink: /archives/
+permalink: /archive/
 title: "Blog Archive"
 layout: single
 excerpt: "

@@ -2,7 +2,7 @@ main:
   - title: "Recent Posts"
     url: /
   - title: "Archive"
-    url: /archives/
+    url: /archivs/
   - title: "Projects"
     url: /projects/
   - title: "About"
