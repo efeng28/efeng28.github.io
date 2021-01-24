@@ -10,7 +10,7 @@ excerpt: "
 <br>
 "
 header:
-  overlay_image: /assets/images/projects.jpg
+  overlay_image: /assets/images/projects.jpeg
   overlay_filter: 0
 ---
 ### [Laboratory Research](https://www.heart.umn.edu/our-research/van-berlo-lab) (6/2019-Present)

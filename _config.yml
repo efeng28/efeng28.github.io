@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Eric Feng"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Senior at Mounds View HS"
   links:
     - label: "feng0198@umn.edu"
