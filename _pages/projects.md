@@ -25,5 +25,5 @@ This was my first exposure to computer programming. I used HTML, CSS, and JavaSc
 ### Personal Website (11/2019-Present)
 I created this website for the purpose of sharing my thoughts and claiming this domain name. I registered my domain through Google Domain, and I am hosting the website through GitHub pages.
 
-### [Class Coordinator](ericjfeng.com/class-coordinator) (1/2021)
+### [Class Coordinator](https://ericjfeng.com/class-coordinator) (1/2021)
 This page was created as a demo for "Class Coordinator." It was made during my time at the Harvard Business Academy, where we learned entrepreneurial skills by creating our own startups. 
