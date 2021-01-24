@@ -16,7 +16,7 @@ header:
 ### [Laboratory Research](https://www.heart.umn.edu/our-research/van-berlo-lab) (6/2019-Present)
 I have been working in Dr. Jop van Berlo's lab at the University of Minnesota since June 2019, and it has been an amazing experience so far. I am currently working to create a time course of murine cardiomyocyte maturation in order to better understand why induced pluripotent stem cell-derived cardiomyocytes persist in a fetal-like state.
 
-### Science Olympiad Test-Writing
+### Science Olympiad Test Writing (1/2018-Present)
 I have written high school Science Olympiad tests for Brown, Harvard, and Yale. I have also test-reviewed for Duke, the University of Pennsylvania, and UT-Austin. I would love to write more tests and direct a tournament in college!
 
 ### [National Honor Society](https://moundsviewnhs.com/) (10/2019-Present)
