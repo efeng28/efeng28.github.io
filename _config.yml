@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Eric J Feng
-email: eric.jq.feng@gmail.com
+email: eric.j.feng@vanderbilt.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website
 minimal_mistakes_skin: air
@@ -56,11 +56,11 @@ plugins:
 author:
   name   : "Eric Feng"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "Senior at Mounds View HS"
+  bio    : "Vanderbilt '25"
   links:
-    - label: "feng0198@umn.edu"
+    - label: "eric.j.feng@vanderbilt.edu"
       icon: " fas fa-fw fa-envelope-square"
-      url: "mailto:feng0198@umn.edu"
+      url: "mailto:eric.j.feng@vanderbilt.edu"
     - label: "in/ericjfeng"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ericjfeng/"
@@ -73,9 +73,9 @@ author:
 
 footer:
   links:
-    - label: "feng0198@umn.edu"
+    - label: "eric.j.feng@vanderbilt.edu"
       icon: " fas fa-fw fa-envelope-square"
-      url: "mailto:feng0198@umn.edu"
+      url: "mailto:eric.j.feng@vanderbilt.edu"
     - label: "in/ericjfeng"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ericjfeng/"
