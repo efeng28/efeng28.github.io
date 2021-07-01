@@ -2,7 +2,7 @@
 title: "Overexpression of human BAG3<sup>P209L</sup> in mice causes restrictive cardiomyopathy"
 date: 2019-11-26T22:09-05:00
 #November 23, 2019 at 22:09 EST
-excerpt: Overexpression of human BAG3<sup>P209L</sup> in mice causes restrictive cardiomyopathy
+excerpt: Kimura, K., Ooms, A., Graf-Riesen, K. *et al*. Overexpression of human BAG3<sup>P209L</sup> in mice causes restrictive cardiomyopathy. *Nat Commun* **12**, 3575 (2021). https://doi.org/10.1038/s41467-021-23858-7
 categories:
   - Daily Paper
 header:
