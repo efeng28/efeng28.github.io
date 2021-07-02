@@ -6,7 +6,7 @@ excerpt: Kimura, K., Ooms, A., Graf-Riesen, K. *et al*. Overexpression of human 
 categories:
   - Daily Paper
 ---
-# Introduction
+## Introduction
 BAG3 is a co-chaperone protein that is important for protein quality control (PQC), therefore maintaining proteostasis (proteo-stasis = protein equilibrium)[^1]. It does this through chaperone-assisted selective autophagy. However, "an amino acid exchange (P209L) in the HSPB8 binding site of the human co-chaerone BAG3 gives rise to severe childhood cardiomyopathy" (cardio-myo-pathy = heart muscle suffering/disease). P209L is a point mutation, but its precise location has not been discovered. There are three main types of cardiomyopathy: dilated, hypertrophic, and restrictive[^2].
 
 | Dilated cardiomyopathy | LV is dilated (volume increases). Most frequent is in middle-aged men. Can be caused by coronary artery disease, heart attack, or poor genetics. |
@@ -15,17 +15,17 @@ BAG3 is a co-chaperone protein that is important for protein quality control (PQ
 
 In this paper, the authors want to generate better replicates of the BAG3<sup>P209L</sup> mutation (and the subsequent phenotype) by using human transgenic mice. With these mouse models, we can better understand the mechanisms of BAG3<sup>P209L</sup>.
 
-# Results
-## Figure 1:
+## Results
+### Figure 1:
 <ol type="a">
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
 </ol>
 
-# Discussion
+## Discussion
 
-# References
+## References
 [^1]: https://www.frontiersin.org/articles/10.3389/fnmol.2017.00177/full
 [^2]: https://www.mayoclinic.org/diseases-conditions/cardiomyopathy/symptoms-causes/syc-20370709
 [^3]: 
