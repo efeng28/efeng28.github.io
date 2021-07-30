@@ -2,9 +2,7 @@
 title: "OSingle-cell transcriptional profiling reveals cellular diversity and intercommunication in the mouse heart"
 date: 2021-07-29T06:09-05:00
 #November 23, 2019 at 22:09 EST
-excerpt: Kkelly et al., 2018, Cell Reports 22, 600–610
-January 16, 2018 ª 2017 The Author(s).
-https://doi.org/10.1016/j.celrep.2017.12.072
+excerpt: Skelly et al., 2018, Cell Reports 22, 600–610 January 16, 2018 ª 2017 The Author(s). https://doi.org/10.1016/j.celrep.2017.12.072
 categories:
   - Daily Paper
 ---
