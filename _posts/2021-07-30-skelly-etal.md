@@ -1,6 +1,6 @@
 ---
 title: "Single-cell transcriptional profiling reveals cellular diversity and intercommunication in the mouse heart"
-date: 2021-07-30T22:09-05:00
+date: 2021-07-30T05:09-05:00
 #November 23, 2019 at 22:09 EST
 excerpt: Skelly et al., 2018, Cell Reports 22, 600–610
 January 16, 2018 ª 2017 The Author(s).
@@ -32,9 +32,19 @@ Essentially they are using single-cell RNA sequencing on mice to understand gene
 
 **Figure 2:** Major Cardiac Cell Types Harbor Subpopulations that Reflect a Hierarchy of Transcriptional Diversity
 <ol type="a">
-    <li>Subclustering of populations shows differences within major cell types. Here, I believe they are only showing the leukocytes and and the cell sub-types (myeloid and lymphoid).</li>
-    <li>
+    <li>Subclustering of populations shows differences within major cell types. They are taking the entire tSNE plot from Fig. 1B and classifying the cells as either lymphoid or myeloid, then subclustering those identified cells.</li>
+    <li>Using the same tSNE plot from Fig. 1B, they display all subpopulations identified. Note that not all cell populations had identifiable subpopulations (e.g. endothelial cells, Schwann cells, smoooth muscle cells). This means that these popluations may be more homogeneous in a mature heart</li>
+    <li>This shows gene expression gradients in cells identified from Fig. 2A. They are primarily macrophages and dentritic cell-like populations.</li>
+    <li>Macrophages have a subpopulation of cells that are kind of a blend of both macrophages and fibroblasts. They show intermediate levels of expression in canonical fibrblast genes and high levels of expression in canonical macrophage/leukocyte genes."</li>
+    <li>They want to confirm the existence of the previously mentioned macrophages, which they identify of "putative (i.e. assumed) fibrocytes." After staining, they first identify fibrocytes, and then GFP positive marks fibroblasts.</li>
+    <li> Images of GFP+ cells that also have macrophage surface markers.</li>
+    <li>Also detected less significant cell subsets with fibroblast-like gene signatures in other major cell populations, such as endothelial cells</li>
 </ol>
+
+**Figure 3:** Novel Strategies for Isolation of Cardiac Mural Cells and Glia
+<ol type="a">
+    <li>Specificcally looking at mural cells (vascular smooth muscle cells) and glia (non-neuronal cells in the CNS and PNS). Fig. 1B plot is modified to show these different types of cells, and the right part shows commonly use markers and new markers used to possibly identify these cell types.
+<ol>
 
 ## Discussion
 
