@@ -41,12 +41,33 @@ Essentially they are using single-cell RNA sequencing on mice to understand gene
 
 **Figure 3:** Novel Strategies for Isolation of Cardiac Mural Cells and Glia
 <ol type="a">
-    <li>Specificcally looking at mural cells (vascular smooth muscle cells) and glia (non-neuronal cells in the CNS and PNS). Fig. 1B plot is modified to show these different types of cells, and the right part shows commonly use markers and new markers used to possibly identify these cell types.
-<ol>
+    <li>Specificcally looking at mural cells (vascular smooth muscle cells) and glia (non-neuronal cells in the CNS and PNS). Fig. 1B plot is modified to show these different types of cells, and the right part shows commonly use markers and new markers used to possibly identify these cell types.</li>
+    <li>Staining in the CSPG4-GFP mouse hearts with GFP, IB4, and translecting for pericytes and smooth muscle cells. Why use IB4 if you are already using translecin?</li>
+    <li>Three mouse models to detect fibroblasts and mural cells (itga7 and mefsk4 antibodies). What does pre-gated mean? They identify three populations of cells.</li>
+    <li>Histograms showing the expression of R1, R2, and R3 in two different genotypes of mice in comparison to wild type. Main takeaway: cardiac fibroblasts (PDGFRalpha+ cells) can be identified and isolated using the mefsk4 and itga7 markers. Itga7 distinguishes mural cells from mefsk4low/int fibroblasts.</li>
+    <li>MCAM separates mural cells from fibrblasts and marks Schwann cells. ENTPD1 identify smooth muscle cells, CD59a identify Schwan cells.</li>
+    <li>This knowledge allowed them to identify and isolated smooth muscle cells, pericytes, and Schwann cells.</li>
+</ol>
 
+**Figure 4:** A Dense Network of Autocrine and Paracrine Signaling Udnerpins Cardiac Homeostasis
+<ol type="a">
+  <li>Map of intercellular communication</li>
+  <li>Fibroblasts are the most "trophic," meaning that they stimulate the most activity</li>
+  <li>Fibroblasts also signal the most for survival, as you can see the heatmap of cell types and important growth factors</li>
+  <li>Fibroblasts and pericytes express csf1 and il34, respectively, which signal through sf1r and are essential factors for macrophage growth and survival</li>
+  <li>Non-myocyte cultures show a lot of macrophages labeled with GFP</li>
+  <li>zoomed in of Fig. 4E</li>
+  <li>endothelial cells</li>
+  <li>macropahges fail to grow when csf1r signaling is blocked. Main takeaway: fibroblasts are important for macrophage and endothelial cell growth (idk about endothelial cells though), but also other essential growth factors from non-fibroblasts are also important</li>
+</ol>
 
-
-
+**Figure 5:** Widespread Cell-Type-Specific Sexual Dimorphism in Cardiac Gene Expression
+<ol type="a">
+  <li>Separation of female and male cells</li>
+  <li>Of the 396 genes upregged in female and 430 upregged in males, about 97% were under 2-fold ratio of sex:opposite sex. Median 1.17</li>
+  <li>The differences in gene expression for which sex has more and how large the difference is largely depends on cell type</li>
+  <li>Showcasing 27 genes that have different female/male gene expression between cell types. Male macrophages upregged genes that respond to foreign antigens. Female macrophages upregged responses to stress and electron transport chain
+</ol>
 
 
 
