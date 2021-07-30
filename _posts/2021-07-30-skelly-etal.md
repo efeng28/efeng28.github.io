@@ -9,7 +9,7 @@ categories:
   - Daily Paper
 ---
 ## Introduction
-Essentially they are using single-cell RNA sequencing on mice to understand gene expression of all cell types in the heart except for cardiomyocytes. In scRNA-seq, you isolate RNA from a single cell, use reverse transcription to convert it into complementary DNA, and then amplify that DNA either through the use of PCR or in vitro transcription. With that amplified DNA, you can then generate a sequencing library and sequence it. This method is advantageous because it can often reveal rare cell types in a population. However, one caveat is that it is impossible to gather 100% information on all RNA in each of the cells due to the very small amount present. Overall, thoguh, these experiments allow us to understand the structure and function of the cardiac cell makeup. 
+Essentially they are using single-cell RNA sequencing on mice to understand gene expression of all cell types in the heart except for cardiomyocytes. In scRNA-seq, you isolate RNA from a single cell, use reverse transcription to convert it into complementary DNA, and then amplify that DNA either through the use of PCR or in vitro transcription. With that amplified DNA, you can then generate a sequencing library and sequence it. This method is advantageous because it can often reveal rare cell types in a population. However, one caveat is that it is impossible to gather 100% information on all RNA in each of the cells due to the very small amount present. Overall, though, these experiments allow us to understand the structure and function of the cardiac cell makeup. 
 
 ## Results
 **Figure 1:** scRNA-Seq Analysis of Cardiac Non-myocytes Reveals Major Cardiac Cell Types
