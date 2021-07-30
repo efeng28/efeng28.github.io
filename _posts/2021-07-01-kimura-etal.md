@@ -16,9 +16,9 @@ BAG3 is a co-chaperone protein that is important for protein quality control (PQ
 In this paper, the authors want to generate better replicates of the BAG3<sup>P209L</sup> mutation (and the subsequent phenotype) by using human transgenic mice. With these mouse models, we can better understand the mechanisms of BAG3<sup>P209L</sup>.
 
 ## Results
-**Figure 1:** "Characterization of 	\alpha $\alpha$
+**Figure 1:** "Characterization of αMHC-BAG<sup>WT</sup> and αMHC-BAG<sup>P209L</sup> mice
 <ol type="a">
-  <li>Coffee</li>
+  <li> </li>
   <li>Tea</li>
   <li>Milk</li>
 </ol>
