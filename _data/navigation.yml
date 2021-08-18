@@ -1,9 +1,0 @@
-main:
-  - title: "Recent Posts"
-    url: /
-  - title: "Archive"
-    url: /archive/
-  - title: "Projects"
-    url: /projects/
-  - title: "About"
-    url: /about/
